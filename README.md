@@ -1,4 +1,4 @@
-﻿# Projet de scoring : Modélisation prédictive des défauts de paiement sur prêts hypothécaires
+﻿# Projet de scoring : Modélisation prédictive des défauts de paiement sur des prêts hypothécaires
 
 ## Objectif du projet
 Dans le contexte économique actuel, la gestion du risque de crédit est une priorité pour les banques et institutions financières. Ce projet vise à développer un modèle prédictif permettant d’évaluer la probabilité de défaut de paiement sur des prêts hypothécaires garantis par l’équité domiciliaire. L'objectif principal est d'identifier les caractéristiques déterminantes influençant le comportement de remboursement des emprunteurs, afin de fournir des outils d’aide à la décision pour une meilleure gestion du risque.
